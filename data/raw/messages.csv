@@ -29,3 +29,6 @@ text,label,scam_type,language
 "Ungal EB bill Rs.540 payment received. Thank you. - TNPDCL",safe,none,tanglish
 "Reminder: Naalaiku 10 AM ku doctor appointment irukku.",safe,none,tanglish
 "Happy birthday da! Treat eppo tharuva?",safe,none,tanglish
+"உங்கள் வங்கி கணக்கு இன்று இரவு முடக்கப்படும். KYC புதுப்பிக்க [LINK] கிளிக் செய்யவும்",scam,kyc,tamil
+"உங்கள் மின் கட்டணம் செலுத்தப்பட்டது. நன்றி. - TNPDCL",safe,none,tamil
+"Your SBI account will be blocked today. Update KYC now [LINK]",scam,kyc,english
