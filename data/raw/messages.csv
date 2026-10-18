@@ -1,0 +1,31 @@
+text,label,scam_type,language
+"Dear customer, ungal SBI account inniki ratri block aagidum. KYC update panna udane inga click pannunga [LINK]",scam,kyc,tanglish
+"Ungal bank account KYC expire aagiduchu. 24 hours kulla update pannala na account freeze aagum. [LINK]",scam,kyc,tanglish
+"Your PAN card update pannala. Account suspend aagum. Call [PHONE] immediately.",scam,kyc,tanglish
+"Sir, ungal HDFC credit card block aayiduchu. Unlock panna card number, CVV anuppunga.",scam,kyc,tanglish
+"Ungal UPI PIN expire aagiduchu. Pudhu PIN set panna ungal old PIN reply pannunga.",scam,otp,tanglish
+"Naan bank officer pesuren. Ungal mobile ku vandha OTP sollunga, account verify pannanum.",scam,otp,tanglish
+"Payment refund varum. Paiyan ku anuppina OTP ah inga share pannunga [LINK]",scam,otp,tanglish
+"Congratulations! Neenga Rs.25,00,000 lucky draw la jeichirukeenga. Claim panna [LINK] click pannunga.",scam,lottery,tanglish
+"Ungal mobile number ku Rs.10 lakh prize vandhirukku. Processing fee Rs.5000 anuppunga [PHONE]",scam,lottery,tanglish
+"Free iPhone gift ungalukku! Inniki mattum, inga register pannunga [LINK]",scam,lottery,tanglish
+"Work from home job! Dhinam Rs.3000 sambaadhikalaam. Phone la YouTube like pannina podhum. WhatsApp [PHONE]",scam,job,tanglish
+"Part-time job offer: Rs.500 deposit pannunga, 1 hour la Rs.1500 thirumba kidaikkum. [LINK]",scam,job,tanglish
+"Amazon la product rating panna Rs.200 per task. Telegram group join pannunga [LINK]",scam,job,tanglish
+"TNEB: Ungal current bill pending. Inniki ratri 9.30 ku connection cut aagum. Udane [PHONE] ku call pannunga.",scam,eb,tanglish
+"EB office: Meter reading update pannala. Fine thavirkka inga pay pannunga [LINK]",scam,eb,tanglish
+"Anna, loan venuma? Instant approval, documents illa. Details ku [PHONE] ku call pannunga.",suspicious,none,tanglish
+"Ungal parcel delivery fail aagiduchu. Address confirm panna [LINK] open pannunga.",suspicious,none,tanglish
+"Offer! Ellaa products ku 70% discount, inniki mattum. Shop now [LINK]",suspicious,none,tanglish
+"Ungal number ku oru gift voucher irukku. Details ku reply pannunga.",suspicious,none,tanglish
+"Ungal SIM 24 hours la deactivate aagalaam. Aadhaar details update pannunga.",suspicious,none,tanglish
+"Investment la double return! Safe and guaranteed. Interested na reply pannunga.",suspicious,none,tanglish
+"Ungal account Rs.1,200 debit aagirukku at [NAME] Store on 12-Oct. Avl bal Rs.8,450. - SBI",safe,none,tanglish
+"Ungal OTP 482913. Idhai yaaridamum share pannadheenga. Valid for 10 mins.",safe,none,tanglish
+"Anna, naalaiku evening 5 mani ku meet pannalaam, okva?",safe,none,tanglish
+"Amma, naan office la irundhu kelamburen. Dinner ku vandhuduven.",safe,none,tanglish
+"Ungal order #4521 inniki delivery aagum. Delivery partner: [NAME].",safe,none,tanglish
+"Dei, exam timetable vandhucha? Hall ticket download pannitiya?",safe,none,tanglish
+"Ungal EB bill Rs.540 payment received. Thank you. - TNPDCL",safe,none,tanglish
+"Reminder: Naalaiku 10 AM ku doctor appointment irukku.",safe,none,tanglish
+"Happy birthday da! Treat eppo tharuva?",safe,none,tanglish
