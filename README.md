@@ -36,7 +36,9 @@ and give a short Tamil explanation.
 Python, Scikit-learn / DistilBERT, Flutter, Firebase
 
 ## Status
-🚧 Step 1: Scope + dataset (in progress)
+✅ Step 1: Scope + dataset
+✅ Step 2: Baseline model (TF-IDF + Logistic Regression)
+🚧 Next: dataset expansion, Tamil explanations, Flutter app
 
 ## Author
 Jothi S
