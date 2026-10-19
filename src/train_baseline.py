@@ -28,6 +28,10 @@ print(classification_report(test["label"], pred, zero_division=0))
 labels = ["scam", "suspicious", "safe"]
 print("Confusion matrix (rows=actual, cols=predicted):", labels)
 print(confusion_matrix(test["label"], pred, labels=labels))
+wrong = test.assign(pred=pred)
+wrong = wrong[wrong["label"] != wrong["pred"]]
+print("\nMisclassified:")
+print(wrong[["text", "label", "pred"]].to_string())
 
 os.makedirs("models", exist_ok=True)
 joblib.dump(model, "models/baseline.joblib")

@@ -32,3 +32,54 @@ text,label,scam_type,language
 "உங்கள் வங்கி கணக்கு இன்று இரவு முடக்கப்படும். KYC புதுப்பிக்க [LINK] கிளிக் செய்யவும்",scam,kyc,tamil
 "உங்கள் மின் கட்டணம் செலுத்தப்பட்டது. நன்றி. - TNPDCL",safe,none,tamil
 "Your SBI account will be blocked today. Update KYC now [LINK]",scam,kyc,english
+"Anna, instant loan venuma? Documents illa, 5 nimisham la approval. Details ku [PHONE] ku call pannunga.",suspicious,none,tanglish
+"Ungal parcel hold la irukku. Address confirm panna [LINK] open pannunga.",suspicious,none,tanglish
+"Sir, ungal SIM 24 hours la block aagalaam. Aadhaar verify pannunga.",suspicious,none,tanglish
+"Limited offer! Ellaa products ku 80% discount, inniki mattum. Shop now [LINK]",suspicious,none,tanglish
+"Investment la double return guarantee. Interested na reply pannunga.",suspicious,none,tanglish
+"Ungal credit limit increase aagirukku. Accept panna [LINK] click pannunga.",suspicious,none,tanglish
+"Free recharge offer ungalukku. Details ku [LINK] paarunga.",suspicious,none,tanglish
+"Ungal number lucky customer ah select aagirukku. Reply YES pannunga.",suspicious,none,tanglish
+"Naan unga friend oda friend, urgent ah Rs.2000 venum, [PHONE] ku GPay pannunga.",suspicious,none,tanglish
+"Ungal insurance policy renew pannala. Penalty thavirkka [PHONE] ku call pannunga.",suspicious,none,tanglish
+"Gas subsidy ungal account ku varala. Details update panna [LINK] click pannunga.",suspicious,none,tanglish
+"Credit card bill pending. Settlement offer ku [PHONE] ku call pannunga.",suspicious,none,tanglish
+"Ungal aadhar link aagala. Update panna office ku varunga.",suspicious,none,tanglish
+"Hi, naan HR pesuren. Job offer irukku, resume anuppunga [PHONE]",suspicious,none,tanglish
+"Ungal Netflix subscription expire aagidum. Renew panna [LINK] paarunga.",suspicious,none,tanglish
+"உங்கள் வங்கி கணக்கு இன்று இரவு முடக்கப்படும். KYC புதுப்பிக்க [LINK] கிளிக் செய்யவும்",scam,kyc,tamil
+"உங்களுக்கு ரூ.10 லட்சம் பரிசு விழுந்துள்ளது. பெற [LINK] கிளிக் செய்யவும்",scam,lottery,tamil
+"உங்கள் மின் இணைப்பு இன்று இரவு 9.30 மணிக்கு துண்டிக்கப்படும். உடனே [PHONE] அழைக்கவும்",scam,eb,tamil
+"உங்கள் OTP ஐ என்னிடம் சொல்லுங்கள், கணக்கு சரிபார்க்க வேண்டும்",scam,otp,tamil
+"வீட்டிலிருந்தே வேலை! தினமும் ரூ.3000 சம்பாதிக்கலாம். WhatsApp [PHONE]",scam,job,tamil
+"உங்கள் மின் கட்டணம் செலுத்தப்பட்டது. நன்றி. - TNPDCL",safe,none,tamil
+"உங்கள் OTP 482913. யாரிடமும் பகிர வேண்டாம்.",safe,none,tamil
+"நாளைக்கு மாலை 5 மணிக்கு சந்திக்கலாமா?",safe,none,tamil
+"உங்கள் ஆர்டர் இன்று டெலிவரி ஆகும்.",safe,none,tamil
+"உங்கள் கடனை திருப்பி செலுத்த இன்று கடைசி நாள். [LINK]",suspicious,none,tamil
+"Your SBI account will be blocked today. Update KYC now [LINK]",scam,kyc,english
+"Congratulations! You won Rs.25,00,000. Claim your prize at [LINK]",scam,lottery,english
+"Your electricity will be disconnected tonight. Call [PHONE] immediately.",scam,eb,english
+"Share the OTP sent to your phone to complete verification.",scam,otp,english
+"Earn Rs.5000 daily from home. Pay Rs.500 registration fee. WhatsApp [PHONE]",scam,job,english
+"Your parcel is on hold. Confirm address at [LINK]",suspicious,none,english
+"Rs.1,200 debited from your account at [NAME] Store. Avl bal Rs.8,450. - SBI",safe,none,english
+"123456 is your OTP for login. Do not share with anyone.",safe,none,english
+"Ungal SBI OTP 654321. Idhai yaarukkum share pannadheenga. SBI never asks for OTP.",safe,none,tanglish
+"Ungal HDFC credit card bill Rs.4,500 due on 25th. Pay at the official app.",safe,none,tanglish
+"Ungal EB bill Rs.540 pay panna last date 20th. Official TNPDCL app la pay pannunga.",safe,none,tanglish
+"Anna, KYC update pannitiya? Bank la kelunga, naan poi pannitten.",safe,none,tanglish
+"Amma, EB bill katta sonnanga. Naalaiku office la pay pannidren.",safe,none,tanglish
+"Dei, lottery ticket vaangina, ethum adikala. Waste of money da.",safe,none,tanglish
+"Ungal Amazon order #4521 deliver aayiduchu. Rate pannunga.",safe,none,tanglish
+"Dei, OTP vanthucha? Naan anuppiten, check pannu.",safe,none,tanglish
+"Ungal Zomato order 15 nimisham la varum. Delivery partner: [NAME].",safe,none,tanglish
+"Bro, part-time job nalla irukku nu sonnanga, company real ah nu check pannu.",safe,none,tanglish
+"Ungal account la Rs.5,000 credit aagirukku. Salary credited. - Canara Bank",safe,none,tanglish
+"Maths exam hall ticket download pannitiya? Link college site la irukku.",safe,none,tanglish
+"Reminder: Naalaiku 10 AM ku doctor appointment irukku.",safe,none,tanglish
+"Ungal bank account la suspicious activity paathom. Branch ku vandhu verify pannunga.",suspicious,none,tanglish
+"Fake KYC message vandhuchu da, yaarum click pannadheenga.",safe,none,tanglish
+"Ungal PAN card verify pannala na penalty. Link click pannunga [LINK]",scam,kyc,tanglish
+"Part-time job: video like panna Rs.300 per video. Telegram join pannunga [LINK]",scam,job,tanglish
+"Ungal UPI ID block aagum. Verify panna PIN anuppunga.",scam,otp,tanglish
